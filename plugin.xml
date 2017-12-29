@@ -6,7 +6,7 @@
     <description>Hosted Web App Plugin</description>
     <license>MIT License</license>
     <keywords>cordova,manifest,hosted,web,manifoldjs</keywords>
-    <repo>https://github.com/manifoldjs/ManifoldCordova.git</repo>
+    <repo>https://github.com/inspectaTech/ManifoldCordova.git</repo>
     <issue>https://github.com/manifoldjs/ManifoldCordova/issues</issue>
 
     <dependency id="cordova-plugin-whitelist" version=">=1.0.1" />
